@@ -1,6 +1,4 @@
-# Support me I need your support now please ❤️
-
-[![](https://img.shields.io/badge/Paypal-Support%20Me-blue)](https://www.paypal.me/Hadikob)
+# ignore this guys its a shit attempt at a github website ages ago
 # Discord bots website template
 Stunning website with good UI design for the new Discord bots, built with Bootstrap and has many ready-made pages to edit by your own.
 
